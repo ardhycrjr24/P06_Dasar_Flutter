@@ -1,9 +1,9 @@
+# P06 - Dasar-Dasar Flutter
+
 **Nama:** Ardiansyah  
 **NIM:** 6304250091  
 **Kelas:** RPL3D Rekayasa Perangkat Lunak (RPL)  
 **Dosen Pengampu:** Depandi Enda, S.ST., M.Kom
-
-# P06 - Dasar-Dasar Flutter
 
 Praktikum 6 mata kuliah Pemrograman Multiplatform: mempelajari dasar-dasar pengembangan aplikasi mobile berbasis Flutter framework, memahami struktur project starter, gaya penulisan kode (StatelessWidget, Scaffold, AppBar, trailing commas), serta implementasi package/library melalui pubspec.yaml.
 
